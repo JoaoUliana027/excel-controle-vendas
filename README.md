@@ -44,4 +44,4 @@ A estrutura foi adaptada e expandida para fixar os conhecimentos adquiridos dura
 
 ---
 
-📎 Certificado publicado no meu perfil do LinkedIn: [Veja o post aqui](https://www.linkedin.com/feed/update/urn:li:activity:7350526719516196864/)
+📎 Certificado publicado no meu perfil do LinkedIn: [Veja o post aqui]([https://www.linkedin.com/feed/update/urn:li:activity:7350526719516196864/](https://www.linkedin.com/posts/joao-uliana_excel-alura-formaaexaetoexcel-activity-7350532427301171200-xecX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOboqIBy7QshQNTArmXuiqrQXKhe0PbhbU))
